@@ -1,5 +1,7 @@
 # Intuitive Deep Learning
 
+Forked by Thomas Sadelski, original program and documentation was created by josephlee94 at https://github.com/josephlee94/intuitive-deep-learning
+
 A beginner-friendly tutorial to introduce Deep Learning concepts in an intuitive way!
 
 Please find the intuitive guides at https://medium.com/intuitive-deep-learning
